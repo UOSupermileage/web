@@ -1,4 +1,4 @@
-me: github pages
+name: Build
 
 on: push
 
