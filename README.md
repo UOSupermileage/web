@@ -1,4 +1,4 @@
-# UO-Supermileage-Static-Site
+# UO Supermileage Static Site
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0720dd64-2e8d-419c-800c-6eab8d4b0ad0/deploy-status)](https://app.netlify.com/sites/supermileage/deploys)
 
