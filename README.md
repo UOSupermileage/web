@@ -1,5 +1,8 @@
 # UO-Supermileage-Static-Site
-Static site for UO Supermileage, assembled with Hugo
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0720dd64-2e8d-419c-800c-6eab8d4b0ad0/deploy-status)](https://app.netlify.com/sites/supermileage/deploys)
+
+Static site for UO Supermileage, assembled with Hugo. Deployed at <https://beta.uosupermileage.ca/>
 
 ## Installing Hugo on Your Machine
 
