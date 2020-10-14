@@ -1,0 +1,18 @@
+me: github pages
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+
+      - uses: actions/checkout@master
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2.2.0
+        with:
+          hugo-version: '0.76.4'
+
+      - name: Build
+        run: hugo --gc --minify --cleanDestinationDir
