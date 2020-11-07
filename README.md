@@ -4,7 +4,21 @@
 
 Static site for UO Supermileage, assembled with Hugo. Deployed at <https://beta.uosupermileage.ca/>
 
-## Installing Hugo on Your Machine
+## Usage
+
+Generate new content like so:
+
+```
+hugo new posts/post-name.md
+hugo new profiles/firstname-lastname.md
+hugo new events/event-name.md
+```
+
+...or using the shared Forestry.io account.
+
+## Developer Instructions
+
+### Installing Hugo on Your Machine
 
 In most cases, the Hugo executable can simply be downloaded and added to your path.
 

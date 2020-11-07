@@ -1,0 +1,18 @@
+html {
+  /* Page */
+  scroll-behavior: smooth;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  max-width: 100%;
+
+  /* Font */
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: auto !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+  /* Colors */
+  background-color: white;
+  color: black;
+}
