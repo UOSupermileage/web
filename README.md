@@ -2,9 +2,11 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2f7abf6d-e538-41cc-87eb-9c00b00e09be/deploy-status)](https://app.netlify.com/sites/uoe/deploys)
 
-Static site for UO Supermileage, assembled with Hugo. Deployed at <https://supermileage.netlify.app>
+Static site for UO Supermileage, assembled with Hugo. Deployed at <https://supermileage.netlify.app> and <https://uosupermileage.ca/>
 
-**Currently the site is experiencing DNS issues, which are being resolved presently.**
+**Currently the site is experiencing intermittent DNS issues.**
+
+<br />
 
 ## Usage
 
