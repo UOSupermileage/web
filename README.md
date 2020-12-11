@@ -1,6 +1,6 @@
 # UO Supermileage Static Site
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0720dd64-2e8d-419c-800c-6eab8d4b0ad0/deploy-status)](https://app.netlify.com/sites/supermileage/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2f7abf6d-e538-41cc-87eb-9c00b00e09be/deploy-status)](https://app.netlify.com/sites/uoe/deploys)
 
 Static site for UO Supermileage, assembled with Hugo. Deployed at <https://beta.uosupermileage.ca/>
 
