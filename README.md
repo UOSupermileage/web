@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2f7abf6d-e538-41cc-87eb-9c00b00e09be/deploy-status)](https://app.netlify.com/sites/uoe/deploys)
 
-Static site for UO Supermileage, assembled with Hugo. Deployed at <https://beta.uosupermileage.ca/>, and now also at <https://uosupermileage.ca>
+Static site for UO Supermileage, assembled with Hugo. Deployed at <https://uosupermileage.ca>
 
 ## Usage
 
