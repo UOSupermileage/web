@@ -1,0 +1,119 @@
+.curved-border {
+    border-radius: 1em
+}
+
+.title-sponsors {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+    padding-bottom: 4em;
+}
+
+.uottawa {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.ceed {
+    grid-column: 2;
+    grid-row: 2;
+}
+
+.winline {
+    grid-column: 3;
+    grid-row: 2;
+}
+
+.sponsors5-row {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(5, 1fr);
+    text-align: center;
+    grid-row-gap: 2em;
+    padding-bottom: 3em;
+}
+
+.sponsors4-row {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+    grid-row-gap: 2em;
+    padding-bottom: 3em;
+}
+
+/* Row 1 */
+.logo-shell {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.logo-clickbond {
+    grid-column: 2/4;
+    grid-row: 1;
+}
+
+.logo-dena {
+    grid-column: 4/6;
+    grid-row: 1;
+}
+
+/* Row 2 */
+.logo-solidworks {
+    grid-column: 1/3;
+    grid-row: 1;
+}
+
+.logo-altium {
+    grid-column: 3/5;
+    grid-row: 1;
+}
+
+/* Row 3 */
+.logo-calabogie {
+    grid-column: 1/3;
+    grid-row: 1;
+}
+
+.logo-soller {
+    grid-column: 3/5;
+    grid-row: 1;
+}
+
+/* Row 4 */
+.logo-canus {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.logo-dica {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.logo-metalpros {
+    grid-column: 3/5;
+    grid-row: 1;
+}
+
+/* Row 5 */
+.logo-cci {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.logo-onyx {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.logo-anahiem {
+    grid-column: 3;
+    grid-row: 1;
+}
+
+.logo-lightouch {
+    grid-column: 4;
+    grid-row: 1;
+}
