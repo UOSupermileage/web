@@ -9,9 +9,9 @@ jobs:
       - uses: actions/checkout@master
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2.2.0
+        uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.76.4"
+          hugo-version: "0.74.3"
 
       - name: Build
         run: hugo --gc --minify --cleanDestinationDir
