@@ -3800,6 +3800,14 @@ body.landing {
   }
 }
 
+/* 
+
+#header -> Navigation bar
+'color' to modify text color
+'background' to modify nav bar background
+
+*/
+
 #header {
   background: #e5e5e5;
   color: #4d5968;
@@ -3976,6 +3984,7 @@ body.landing {
   -ms-animation: none;
   animation: none;
   background: transparent;
+  color: #ffffff; /* Text color, transparent nav bar */
   height: 5em;
   line-height: 5em;
   position: absolute;
