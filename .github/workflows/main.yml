@@ -1,0 +1,7 @@
+- name: Hugo build and Firebase Deploy
+  # You may pin to the exact commit or the version.
+  # uses: pulimento/github-action-hugo-deploy-to-firebase@9c3e425075d46267ad12940c39c4381719f1f7ee
+  uses: pulimento/github-action-hugo-deploy-to-firebase@1.1.0
+  with:
+    # Firebase token (obtained via firebase tools -- firebase login:ci)
+    firebase-token: "1//047YVK3meys_zCgYIARAAGAQSNwF-L9IrBGZSE2Gbo0Q9bd9hms4X9hw1paNgoI9w6SJ03j3HLQ_U8aSg2gjiv-WPLFN876XozA4"
