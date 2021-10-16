@@ -1,6 +1,6 @@
 @import url(fontawesome-all.min.css);
 /* @import url("https://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,700,300"); // The old site font */ 
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,300&display=swap');
 
 /*
 	Archetype by Pixelarity
@@ -217,7 +217,7 @@ body,
 input,
 select,
 textarea {
-  font-family: "Lato", "Open Sans", Helvetica, sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 14pt;
   font-weight: 300;
   line-height: 1.65em;
