@@ -16,7 +16,7 @@ hugo new profiles/firstname-lastname.md
 hugo new events/event-name.md
 ```
 
-...or using the shared Forestry.io account.
+...or use the shared Forestry.io account.
 
 ## Developer Instructions
 
