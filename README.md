@@ -16,7 +16,7 @@ hugo new profiles/firstname-lastname.md
 hugo new events/event-name.md
 ```
 
-...or using the shared Forestry.io account.
+...or use the shared Forestry.io account.
 
 ## Developer Instructions
 
@@ -24,7 +24,7 @@ hugo new events/event-name.md
 
 In most cases, the Hugo executable can simply be downloaded and added to your path.
 
-If your OS has a package manager installed (brew on OSX, chocolatey on Windows, apt/dnf/yum on GNU/Linux)
+If your OS has a package manager installed (`brew` on macOS, `chocolatey` on Windows, `apt`/`dnf`/`yum` on GNU/Linux)
 you will be able to install a recent version of hugo with `<pkg> install hugo`. For example, here's what
 installation could look like on Windows 10:
 
