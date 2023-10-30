@@ -1,3 +1,0 @@
-# Something
-
-Another test
