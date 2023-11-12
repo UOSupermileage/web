@@ -14,9 +14,11 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       colors: {
-        clementine: "#2c2c2c",
+        clementine: "#ec7000",
         raisin: "#231f20",
         bunker: "#2c2c2c",
+        magnesium: "#b6b6b6",
+        garnet: "#8f001a",
       },
     },
   },

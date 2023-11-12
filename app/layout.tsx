@@ -21,7 +21,10 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className={`${inter.variable} ${spectral.variable}`}>
+    <html
+      lang="en"
+      className={`${inter.variable} ${spectral.variable} bg-black`}
+    >
       <body>{children}</body>
     </html>
   )
